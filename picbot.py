@@ -40,3 +40,5 @@ async def get_images_from_user(message: types.Message):
 if __name__ == "__main__":
 
     executor.start_polling(dp)
+
+#ishlamadi
